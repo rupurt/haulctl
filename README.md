@@ -1,0 +1,2 @@
+# haulctl
+Hauler CLI
